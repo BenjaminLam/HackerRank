@@ -39,7 +39,7 @@ class SockMerchant
         return pairs;
     }
 
-    static void Main(string[] args)
+    static void main(string[] args)
     {
         
 
